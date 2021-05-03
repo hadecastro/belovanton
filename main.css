@@ -7,6 +7,7 @@
 }
 
 .navbar-brand {
+    text-align: right;
     color: #000000;
     font-size: 56px;
     letter-spacing: 3px;
